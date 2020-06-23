@@ -32,7 +32,7 @@
 #Comming Soon
 <!--<p><a href="https://jasont01.github.io/odin-youtube">github.io</a></p>-->
 
-## The Odin Project [![GitHub followers](https://img.shields.io/github/followers/TheOdinProject?label=TheOdinProject&style=social)](https://img.shields.io/github/stars/TheOdinProject/curriculum?style=social)
+## The Odin Project ![GitHub stars](https://img.shields.io/github/stars/TheOdinProject/curriculum?style=social)
 <p>The Odin Project is a open source, full stack curriculum focused on helping you learn web development.</p>
 <p>Learn more at their site: <a href="https://www.theodinproject.com/">theodinproject.com</a></p>
 
