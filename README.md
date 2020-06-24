@@ -29,7 +29,7 @@ In this project, you are required to build a webpage that contains an embedded y
 
 ## Live version
 
-<p><a href="https://jasont01.github.io/odin-youtube">github.io</a></p>
+<p><a href="https://jasont01.github.io/odin-youtube/index.html">github.io</a></p>
 
 ## The Odin Project ![GitHub stars](https://img.shields.io/github/stars/TheOdinProject/curriculum?style=social)
 <p>The Odin Project is a open source, full stack curriculum focused on helping you learn web development.</p>
